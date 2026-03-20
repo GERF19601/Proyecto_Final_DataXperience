@@ -11,3 +11,9 @@ En este repositorio encontrarás la base de datos utilizada para el análisis, j
 Además, se incluye un video explicativo donde se detalla el proceso, la metodología utilizada y los resultados obtenidos.
 
 Esperamos que este proyecto sea de tu agrado. 😀
+
+## 🎥 Video explicativo
+
+El video del proyecto se puede encontrar en el siguiente enlace:
+
+https://youtu.be/T5-DMNenswE
