@@ -1,4 +1,4 @@
-# 📊 Proyecto Final de DataXperience
+# 📊 Proyecto Final de DataXperience Grupo 35
 
 ## 🔧 Autores
 - Adriana Ramirez  
